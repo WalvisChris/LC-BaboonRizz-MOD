@@ -19,3 +19,11 @@ these values can also be edited in the config file `Lethal Company > BepInEx > c
 
 Lethal Company > v68  
 Visual Studio 2022 > Class Library (.NET Framework 4.8)  
+
+# Ideas for future versions
+
+- Opening Doors with `/door <code>`  
+- Disabling turrets with `/turret <code>`  
+- Sending signal transmits with `/transmit <text>`  
+- Killing the nearest enemy with `/kill`  
+- Setting player health with `/heal <amount>`  
