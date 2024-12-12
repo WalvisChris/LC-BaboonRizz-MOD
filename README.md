@@ -8,8 +8,8 @@
 # Features
 
 `/sprint`   => Enables Infinite Sprint, default = false  
-`/speed <number>`   => Set Player Speed, default = 10  
-`/jump <number>`   => Set Player Jump Force, default = 5  
+`/speed <number>`   => Set Player Speed, default = 13  
+`/jump <number>`   => Set Player Jump Force, default = 4.6  
 `/climb <number>`   => Set Player Climb Speed, default = 3  
 `/scrap <number>`   => Set Scrap Value of Held Item
 

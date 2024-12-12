@@ -21,9 +21,9 @@ namespace BaboonRizzMod
 
         public ConfigurationController(ConfigFile config)
         {
-            MovementSpeedCfg = config.Bind("Options", "Set Custom Movement Speed", 5f);
+            MovementSpeedCfg = config.Bind("Options", "Set Custom Movement Speed", 4.6f);
             InfiniteSprintCfg = config.Bind("Options", "Enable Infinite Sprint", false);
-            JumpForceCfg = config.Bind("Options", "Set Custom Jump Force", 10f);
+            JumpForceCfg = config.Bind("Options", "Set Custom Jump Force", 13f);
             ClimbSpeedCfg = config.Bind("Options", "Set Custom Climb Speed", 3f);
         }
     }
