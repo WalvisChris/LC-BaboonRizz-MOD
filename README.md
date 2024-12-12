@@ -27,3 +27,4 @@ Visual Studio 2022 > Class Library (.NET Framework 4.8)
 - Sending signal transmits with `/transmit <text>`  
 - Killing the nearest enemy with `/kill`  
 - Setting player health with `/heal <amount>`  
+- Teleport to player with `/tp <username>`
