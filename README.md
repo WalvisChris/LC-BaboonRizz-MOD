@@ -12,8 +12,8 @@
 `/jump <number>`   => Set Player Jump Force, default = 4.6  
 `/climb <number>`   => Set Player Climb Speed, default = 3  
 `/scrap <number>`   => Set Scrap Value of Held Item  
-`/health <number>`   => Set PLayer Health
-`/door <code>`   => Open Big Door
+`/health <number>`   => Set PLayer Health  
+`/door <code>`   => Open Big Door  
 
 these values can also be edited in the config file `Lethal Company > BepInEx > config > BaboonRizzMod.Chris.cfg`  
 
