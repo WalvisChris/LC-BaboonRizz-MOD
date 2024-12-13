@@ -11,7 +11,9 @@
 `/speed <number>`   => Set Player Speed, default = 13  
 `/jump <number>`   => Set Player Jump Force, default = 4.6  
 `/climb <number>`   => Set Player Climb Speed, default = 3  
-`/scrap <number>`   => Set Scrap Value of Held Item
+`/scrap <number>`   => Set Scrap Value of Held Item  
+`/health <number>`   => Set PLayer Health
+`/door <code>`   => Open Big Door
 
 these values can also be edited in the config file `Lethal Company > BepInEx > config > BaboonRizzMod.Chris.cfg`  
 
@@ -22,9 +24,7 @@ Visual Studio 2022 > Class Library (.NET Framework 4.8)
 
 # Ideas for future versions
 
-- Opening Doors with `/door <code>`  
 - Disabling turrets with `/turret <code>`  
 - Sending signal transmits with `/transmit <text>`  
 - Killing the nearest enemy with `/kill`  
-- Setting player health with `/heal <amount>`  
 - Teleport to player with `/tp <username>`
