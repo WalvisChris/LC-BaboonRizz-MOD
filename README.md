@@ -19,12 +19,20 @@ these values can also be edited in the config file `Lethal Company > BepInEx > c
 
 # Version
 
-Lethal Company > v68  
-Visual Studio 2022 > Class Library (.NET Framework 4.8)  
+Lethal Company > **v68**  
+Visual Studio 2022 > Class Library **(.NET Framework 4.8)**  
 
 # Ideas for future versions
 
 - Disabling turrets with `/turret <code>`  
 - Sending signal transmits with `/transmit <text>`  
 - Killing the nearest enemy with `/kill`  
-- Teleport to player with `/tp <username>`
+- Teleport to player with `/tp <username>`  
+- Spawn objects with `/object <name>`  
+- Spawn enemy with `/spawn <name>`  
+- toggle freecam with `/freecam`  
+
+# Bugs to fix
+
+- Door C1 won't open  
+- /scrap doesnt work in multiplayer  
