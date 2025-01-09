@@ -1,3 +1,7 @@
+# BaboonRizzMod
+
+[view the thunderstore mod page here]()
+
 # Instructions
 
 - Install BepInEx for lethal company [Tutorial](https://www.youtube.com/watch?v=_amdmNMWgTI)
@@ -34,5 +38,4 @@ Visual Studio 2022 > Class Library **(.NET Framework 4.8)**
 
 # Bugs to fix
 
-- Door C1 won't open  
 - /scrap doesnt work in multiplayer  

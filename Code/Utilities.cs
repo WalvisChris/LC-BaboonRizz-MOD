@@ -153,12 +153,9 @@ namespace BaboonRizzMod
                 {
                     playerController.currentlyHeldObjectServer.SetScrapValue(value);
                     Plugin.mls.LogInfo($"/scrap => {value} (server)");
+                    Plugin.mls.LogInfo($"PlayerControllerB.currentlyHeldObject = {playerController.currentlyHeldObject}");
+                    Plugin.mls.LogInfo($"PlayerControllerB.currentlyHeldObjectServer = {playerController.currentlyHeldObjectServer}");
                 }
-                else if (playerController != null && playerController.currentlyHeldObject != null)
-                {
-                    playerController.currentlyHeldObject.SetScrapValue(value);
-                    Plugin.mls.LogInfo($"/scrap => {value}");
-                } 
                 else
                 {
                     Plugin.mls.LogInfo("No object currently held (PlayerControllerB.currentlyHeldObject = null)");
