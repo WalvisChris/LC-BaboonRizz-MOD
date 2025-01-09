@@ -1,6 +1,6 @@
 # BaboonRizzMod
 
-[view the thunderstore mod page here]()
+[view the thunderstore mod page here](https://thunderstore.io/c/lethal-company/p/WalvisChris/BaboonRizz/)
 
 # Instructions
 
